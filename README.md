@@ -1,8 +1,8 @@
-# missing-person-finder-demo
+# Missing-person-finder-demo
 Live project Demo at https://missing-people-finder.herokuapp.com/
 
 
-# Features (videos)
+## Features (videos)
 
 <details>
  <summary>Homepage</summary>
@@ -89,3 +89,9 @@ Live project Demo at https://missing-people-finder.herokuapp.com/
 
 
 
+## Platform: Web
+
+## Tech stack: 
+ Frontend: HTML5, CSS3, Bootstrap4
+ Backend: NodeJS, MongoDB
+  
