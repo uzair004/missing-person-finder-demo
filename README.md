@@ -92,6 +92,6 @@ Live project Demo at https://missing-people-finder.herokuapp.com/
 ## Platform: Web
 
 ## Tech stack: 
- Frontend: HTML5, CSS3, Bootstrap4
- Backend: NodeJS, MongoDB
+ - Frontend: HTML5, CSS3, Bootstrap4
+ - Backend: NodeJS, MongoDB
   
