@@ -92,6 +92,6 @@ Live project Demo at [Demo Link](https://missing-person-finder-tveq.onrender.com
 ## Platform: Web
 
 ## Tech stack: 
- - Frontend: HTML5, CSS3, Bootstrap4
- - Backend: NodeJS, MongoDB
+ - Frontend: HTML5, CSS3, Bootstrap4, PugJS
+ - Backend: NodeJS, Express, MongoDB, TensorFlowJS
   
