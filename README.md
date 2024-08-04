@@ -1,5 +1,5 @@
 # Missing-person-finder-demo
-Live project Demo at [Demo Link](https://missing-person-finder-tveq.onrender.com)
+Live project Demo at [Demo Link](http://missingpersonfinder.ddns.net/)
 
 
 ## Features (videos)
